@@ -1,0 +1,1 @@
+ejemplar_novela1.prestar(1)
